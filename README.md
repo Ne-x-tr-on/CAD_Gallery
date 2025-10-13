@@ -5,3 +5,10 @@ This repo brings together my work in **AutoCAD**, **SolidWorks**, and **KiCad**,
 
 ---
 
+## 🧱 AutoCAD Sample Drawing
+
+This is a sample mechanical design drawn using AutoCAD.
+
+<p align="center">
+  <img src="scrnsht/cadshot.png" alt="AutoCAD Sample Drawing" width="500">
+</p>
