@@ -5,5 +5,3 @@ This repo brings together my work in **AutoCAD**, **SolidWorks**, and **KiCad**,
 
 ---
 
-## 📁 Repository Structure
-
