@@ -10,5 +10,5 @@ This repo brings together my work in **AutoCAD**, **SolidWorks**, and **KiCad**,
 This is a sample mechanical design drawn using AutoCAD.
 
 <p align="center">
-  <img src="AutoCADScreenshots/cadshot.png" alt="AutoCAD Sample Drawing" width="500">
+  <img src="AutoCAD/Screenshots/cadshot.png" alt="AutoCAD Sample Drawing" width="500">
 </p>
